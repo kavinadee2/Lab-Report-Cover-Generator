@@ -48,3 +48,4 @@ To guarantee that your printed document perfectly matches the true millimetric r
 3. If you leave auto-scaling turned on, your computer will shrink the A4 canvas to accommodate normal desktop paper feed clips, which distorts your true measurements (turning a 15mm margin into 20mm). Switching to **Actual Size** ensures your output printed margins match the target **15mm / 12mm** specifications perfectly.
 
 ---
+📥 **[DOWNLOAD THE PRINT CALIBRATION USER MANUAL (PDF)](https://github.com/kavinadee2/Lab-Report-Cover-Generator/blob/main/CAD_Lab_Cover_Project_User_Manual.pdf)**
